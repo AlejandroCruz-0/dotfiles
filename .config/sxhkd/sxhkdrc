@@ -16,11 +16,18 @@ super + Escape
 
 #bloquear pantalla con betterlockscreen
 ctrl + alt + l
-	betterlockscreen -l -t "Abrete Sesame"
-
+	betterlockscreen -l 
+#flameshot
+Print 
+	flameshot gui
 #
 # bspwm hotkeys
 #
+
+# Move current window to a pre-selected space
+super + shift + m
+    bspc node -n last.!automatic
+
 
 # quit/restart bspwm
 super + alt + {q,r}
