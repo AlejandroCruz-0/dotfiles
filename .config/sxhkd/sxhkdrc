@@ -18,7 +18,7 @@ super + Escape
 ctrl + alt + l
 	betterlockscreen -l 
 #flameshot
-Print 
+super + p 
 	flameshot gui
 #
 # bspwm hotkeys
