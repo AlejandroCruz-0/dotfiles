@@ -1,0 +1,10 @@
+{
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.fontFamily": "'FiraCode Nerd Font', 'monospace', monospace",
+    "editor.fontSize": 16,
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    }
+}
