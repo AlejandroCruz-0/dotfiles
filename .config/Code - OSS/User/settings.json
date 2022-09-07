@@ -2,9 +2,17 @@
     "[javascriptreact]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
-    "editor.fontFamily": "'FiraCode Nerd Font', 'monospace', monospace",
+    "editor.fontFamily": "'VictorMono Nerd Font', 'monospace', monospace",
     "editor.fontSize": 16,
     "[javascript]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"
-    }
+    },
+    "terminal.integrated.fontFamily": "Iosevka Nerd Font",
+    "terminal.integrated.fontSize": 16,
+    "editor.fontWeight": "normal",
+    "workbench.iconTheme": "material-icon-theme",
+    "python.formatting.provider": "black",
+    "git.autofetch": true,
+    "python.formatting.blackPath": "/home/kobrazer0/.local/bin/black",
+    "editor.formatOnSave": true
 }
